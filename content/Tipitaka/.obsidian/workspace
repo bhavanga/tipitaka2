@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "216390385e0e3ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a2241ab286636e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Example Title.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53227d40938bc8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e901e2090c3cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c15b5a57fafe65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea5a6ed167af3169",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7547f50f9a6a35ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1b1269db6b2811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a84959396e09f42b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Example Title.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a2241ab286636e7",
+  "lastOpenFiles": [
+    "Example Title.md",
+    "Concepção, nascimento e juventude.md",
+    "Atingindo estados refinados, sem forma.md",
+    "A busca pelo despertar.md"
+  ]
+}
